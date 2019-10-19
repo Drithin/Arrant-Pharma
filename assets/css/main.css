@@ -3937,3 +3937,19 @@
 		color: #34d15e;
 		text-align: center;
 	}
+
+	/* .clearfix:after{
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	.services-content{
+		width: 75%;
+		float: left;
+	}
+
+	.specialities-content{
+		width: 25%;
+		float: left;
+	} */
